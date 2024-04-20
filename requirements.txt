@@ -1,0 +1,10 @@
+tensorflow==2.15.0
+matplotlib
+numpy
+plotly
+pyngrok
+PyOpenGL
+Requests
+streamlit
+torch
+tqdm
